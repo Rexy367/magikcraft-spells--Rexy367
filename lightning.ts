@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function lightning(15) {
+function lightning() {
 	
 }
