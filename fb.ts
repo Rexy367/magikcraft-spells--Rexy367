@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function fb() {
+function fb(2) {
     magik.infierno();
 }
